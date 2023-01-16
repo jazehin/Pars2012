@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pars2012", "Pars2012.csproj", "{1F694151-227D-4F2B-A188-57FF86619C31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F694151-227D-4F2B-A188-57FF86619C31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F694151-227D-4F2B-A188-57FF86619C31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F694151-227D-4F2B-A188-57FF86619C31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F694151-227D-4F2B-A188-57FF86619C31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E800583-DCFC-4A0C-AB4D-8E99F1B32FFD}
+	EndGlobalSection
+EndGlobal
